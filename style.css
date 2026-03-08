@@ -1,0 +1,59 @@
+body {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+}
+
+/* Headings */
+.head {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#bglime {
+    background-color: lime;
+    color: black;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+/* Paragraphs */
+p {
+    color: brown;
+    font-size: 16px;
+}
+
+#para {
+    color: purple;
+    font-style: italic;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+
+/* List items */
+li {
+    font-size: 15px;
+    margin: 5px 0;
+}
+
+li.blue {
+    color: blue;
+}
+
+li.red {
+    color: red;
+}
